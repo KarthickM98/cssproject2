@@ -201,7 +201,7 @@ background: white;
 }
 /* media quirey */
 
-@media screen and (min-width:480px) and (max-width:1200px) {
+@media screen and (min-width:480px) and (max-width:1500px) {
     .homemq{display: none;}
 }
 /* index 4 */
